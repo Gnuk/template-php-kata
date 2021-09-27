@@ -6,7 +6,7 @@
 * [XDebug](https://xdebug.org/) (for coverage)
 * [Composer](https://getcomposer.org/)
 
-About versions, you need to check in the `component.json` file.
+About versions, you need to check in the `composer.json` file.
 
 ## Install
 
